@@ -24,7 +24,7 @@ p {
     font-style: italic;
 }
 
-.ul,
-.ol {
+ul,
+ol {
     font-family: 'Courier New', Courier, monospace;
 }
