@@ -1,0 +1,16 @@
+h1 {
+    color:midnightblue;
+    font-family: monospace
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+ul {
+    color: darkslategrey;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+

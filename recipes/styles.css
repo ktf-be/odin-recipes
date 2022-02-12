@@ -1,0 +1,30 @@
+img {
+    align-content: center;
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    color: darkblue; 
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 28px;
+    text-align: center;
+}
+
+h2 {
+    background-color: darkblue;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.ul,
+.ol {
+    font-family: 'Courier New', Courier, monospace;
+}
